@@ -1,0 +1,8 @@
+1강: https://callicse.blogspot.com/2021/06/cs231n-cs231n-1-introduction-to-cnn-for.html
+2강: https://callicse.blogspot.com/2021/06/deep-learning-cs231n-2-image.html
+3강: https://callicse.blogspot.com/2021/06/deep-learning-cs231n-3-loss-functions.html
+4강: https://callicse.blogspot.com/2021/06/deep-learning-cs231n-4-backpropagation.html
+5강: https://callicse.blogspot.com/2021/06/deep-learning-cs231n-5-convolutional.html
+6강: https://callicse.blogspot.com/2021/06/deep-learning-cs231n-6-training-neural.html
+7강: https://callicse.blogspot.com/2021/06/deep-learning-cs231n-7-training-neural.html
+
