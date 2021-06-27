@@ -1,0 +1,2 @@
+cs231n 강의 정리
+https://www.notion.so/CS231n-7b21fbd1d75545428543cae59a122e84
